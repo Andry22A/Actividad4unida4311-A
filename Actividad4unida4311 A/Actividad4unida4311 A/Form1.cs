@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PracticaFormularios;
+using System;
 using System.Windows.Forms;
 
 namespace Actividad4unida4311_A
@@ -9,6 +10,12 @@ namespace Actividad4unida4311_A
         {
             InitializeComponent();
             this.IsMdiContainer = true; // Asegura que el formulario sea MDI container
+        }
+        private void serieFibonacciToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            FrmFibonacci fibo = new FrmFibonacci();
+            fibo.MdiParent = this;
+            fibo.Show();
         }
 
         private void FrmPrincipal_Load(object sender, EventArgs e)

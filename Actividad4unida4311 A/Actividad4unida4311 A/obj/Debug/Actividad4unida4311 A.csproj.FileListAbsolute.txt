@@ -11,5 +11,4 @@ C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida
 C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida4311 A\Actividad4unida4311 A\obj\Debug\Actividad4unida4311 A.exe
 C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida4311 A\Actividad4unida4311 A\obj\Debug\Actividad4unida4311 A.pdb
 C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida4311 A\Actividad4unida4311 A\obj\Debug\Actividad4unida4311 A.exe.config
-C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida4311 A\Actividad4unida4311 A\obj\Debug\Actividad4unida4311_A.FrmFibonacci.resources
 C:\Users\Andry De La Rosa\Documents\GitHub\Actividad4unida4311-A\Actividad4unida4311 A\Actividad4unida4311 A\obj\Debug\PracticaFormularios.FrmFibonacci.resources
